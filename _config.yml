@@ -136,10 +136,12 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "Jun 2017 - Today"
-    description: "M.S. @ The University of Chicago,\\ machine learning enthusiast, Actively Seeking Machine Learning/Data Science Intern in Summer 2018"
+    description: "M.S. @ The University of Chicago,
+     machine learning enthusiast, 
+     Actively Seeking Machine Learning/Data Science Intern in Summer 2018"
 
   - image: "/img/coolgitcat.png"
-    date: "September 2013 - Jul 2016"
+    date: "Sep 2013 - Jul 2016"
     description: "M.S. @Tsinghua Universty, research on Neuromorphic Computing"
 
   - image: "/img/timeline/baracktocat.jpg"
