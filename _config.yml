@@ -28,7 +28,7 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "en"
+lang: "en, zh-Hans"
 author: "Xueyao Huang"
 title: "{ Xueyao Huang }"
 description: "Xueyao Huang, personal website."
@@ -55,9 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Xueyao Huang, data scientist, on the move."
   - text: "桃李春风一杯酒， 江湖夜雨十年灯"
+  - text: "You got a dream... You gotta protect it"
 
 me-img: "/img/jetpacktocat.png"
 
