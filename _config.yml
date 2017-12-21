@@ -137,7 +137,6 @@ events:
   - image: "/img/timeline/spidertocat.png"
     date: "Jun 2017 - Today"
     description: "M.S. @ The University of Chicago,\\ machine learning enthusiast, Actively Seeking Machine Learning/Data Science Intern in Summer 2018"
-    description: "M.S. @ The University of Chicago,"
 
   - image: "/img/coolgitcat.png"
     date: "September 2013 - Today"
@@ -155,7 +154,7 @@ events:
   #   date: "13.8 billion years ago"
   #   description: "Big bang!"
 
-timeline-img: "/img/bigbang.png"
+timeline-img: "/img/pycat.jpg"
 # date: "13.8 billion years ago"
 # description: "Big bang!"
 
