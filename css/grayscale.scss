@@ -149,7 +149,8 @@ a {
         transition: background .5s ease-in-out,padding .5s ease-in-out;
         &.top-nav-collapse {
             padding: 0;
-            background: #2B2D42; //color when collapse
+            // background: #2B2D42; //color when collapse
+            background: $navbar-lg-background;
             border-bottom: 1px solid rgba(#247BA0, 0.3);
         }
     }
