@@ -1,3 +1,6 @@
+---
+---
+
 @import "variables";
 @import "mixins";
 
@@ -12,7 +15,7 @@ body {
     height: 100%;
     font-family: "Lora","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: $font-color;
-    background-color: #F7FFD5;
+    background-color: $primary-color;
 }
 
 html {
@@ -146,7 +149,7 @@ a {
         transition: background .5s ease-in-out,padding .5s ease-in-out;
         &.top-nav-collapse {
             padding: 0;
-            background: $navbar-lg-background;
+            background: $navbar-lg-collapse-background-color;
             border-bottom: 1px solid rgba($font-color, 0.3);
         }
     }
