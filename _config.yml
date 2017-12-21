@@ -138,9 +138,9 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "Jun 2017 - Today"
-    description: "@ The University of Chicago, machine learning enthusiast"
+    description: "@ The University of Chicago, machine learning enthusiast, Actively Seeking Machine Learning Engineer/Data Science Intern in Summer 2018"
 
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/coolgitcat.png"
     date: "September 2013 - Today"
     description: "@Tsinghua Universty, research on Neuromorphic Computing"
 
@@ -151,6 +151,12 @@ events:
   - image: "/img/timeline/gitcatbaby.png"
     date: "Jul 1991"
     description: "Born in Danjiangkou Hubei, China"
+  
+  - image: "/img/timeline/bigbang.png"
+    date: "13.8 billion years ago"
+    description: "Big bang!"
+
+    
 # First image of the Timeline
 
 timeline-img: "/img/timeline/default.png"
