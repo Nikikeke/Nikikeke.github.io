@@ -136,15 +136,15 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "Jun 2017 - Today"
-    description: "@ The University of Chicago, machine learning enthusiast, Actively Seeking Machine Learning Engineer/Data Science Intern in Summer 2018"
+    description: "M.S. @ The University of Chicago, machine learning enthusiast, Actively Seeking Machine Learning Engineer/Data Science Intern in Summer 2018"
 
   - image: "/img/coolgitcat.png"
     date: "September 2013 - Today"
-    description: "@Tsinghua Universty, research on Neuromorphic Computing"
+    description: "M.ENG. @Tsinghua Universty, research on Neuromorphic Computing"
 
   - image: "/img/timeline/baracktocat.jpg"
     date: "Sep 2009 - Jun 2013"
-    description: "@Huazhong University of Science & Technology, Started coding"
+    description: "B.S. @Huazhong University of Science & Technology, Started coding"
 
   - image: "/img/timeline/gitcatbaby.png"
     date: "Jul 1991"
@@ -154,7 +154,7 @@ events:
   #   date: "13.8 billion years ago"
   #   description: "Big bang!"
 
-# timeline-img: "/img/bigbang.png"
+timeline-img: "/img/bigbang.png"
 # date: "13.8 billion years ago"
 # description: "Big bang!"
 
