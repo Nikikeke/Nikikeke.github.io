@@ -264,8 +264,6 @@ a {
     }
     img.emoji {
       /* Override any img styles to ensure Emojis are displayed inline */
-      width: 70px;
-      height: 70px;
       margin: 0px !important;
       display: inline !important;
       border: 1px solid #F3FFBD !important;
