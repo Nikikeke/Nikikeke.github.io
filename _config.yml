@@ -39,7 +39,7 @@ favicon: "/img/author.png"
 # Header layout #
 ################
 
-black-favicon: "/img/labtocat.png"
+black-favicon: "/img/labtocat1.png"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -169,8 +169,6 @@ author_blurb_image: "/img/author.png"
 social:
   - title: "github"
     url: "https://github.com/xueyaohuang"
-  - title: "email"
-    mailto: "huangxy@uchicago.edu"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/xueyao-chris-huang-8197aa7a/"
   - title: "facebook"
