@@ -156,7 +156,9 @@ events:
     date: "13.8 billion years ago"
     description: "Big bang!"
 
-  
+  - timeline-img: "/img/bigbang.png"
+    date: "13.8 billion years ago"
+    description: "Big bang!"
 
 ###########
 # Contact #
