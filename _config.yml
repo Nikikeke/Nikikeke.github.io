@@ -28,7 +28,7 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "zh-Hans"
+lang: "en"
 author: "Xueyao Huang"
 title: "{ Xueyao Huang }"
 description: "Xueyao Huang, personal website."
