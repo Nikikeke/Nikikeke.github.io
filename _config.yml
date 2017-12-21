@@ -211,9 +211,8 @@ err-404-img: "/img/labtocat.png"
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
+  About: 'timeline'
   Blog: 'latest-post'
-  Timeline: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
