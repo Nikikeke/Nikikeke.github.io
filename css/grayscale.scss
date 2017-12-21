@@ -242,8 +242,8 @@ a {
     /* Added in { Personal } for responsive images in posts and section contents */
     img {
         display: block;
-        max-width: 100%;
-        height: auto;
+        width: 70px;
+        height: 70px;
         margin: 0 auto;
         border: 1px solid #247BA0;
     }
@@ -272,8 +272,7 @@ a {
     /* Added in { Personal } */
     &#post {
         div.author img {
-          width: 70px;
-          height: 70px;
+
             border: 0px;
             margin-bottom: 20px;
             padding: 4px;
