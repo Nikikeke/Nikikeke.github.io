@@ -55,7 +55,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Xueyao Huang, data scientist, on the move."
+  - text: "Xueyao Huang, future data scientist, on the move."
   - text: "桃李春风一杯酒， 江湖夜雨十年灯"
   - text: "You got a dream... You gotta protect it."
 
@@ -149,7 +149,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "huangxy@uchicago.edu"
 
 ################
 # Author Blurb #
@@ -159,7 +159,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Xueyao Huang, future data scientist, on the move."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -200,7 +200,7 @@ keybase-in-footer: True
 # Sections shown in the index page
 
 pages_list:
-  AAAAbout: 'about'
+  About: 'about'
   Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
