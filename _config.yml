@@ -137,6 +137,7 @@ events:
     date: "September 2013 - Today"
     description: "Saving the neighborhood!"
   - image: "/img/timeline/baracktocat.jpg"
+    address: "Huazhong University"
     date: "September 2007 - August 2013"
     description: "Started coding"
 
@@ -188,7 +189,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: Xueyao Huang
 keybase-in-social: True
 keybase-in-footer: True
 
