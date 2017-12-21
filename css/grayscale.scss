@@ -99,7 +99,7 @@ a {
         }
     }
     .navbar-brand {
-        font-weight: 2000;
+        font-weight: 5000;
         &:focus {
             outline: none;
         }
@@ -114,7 +114,7 @@ a {
         text-align: center;
         li {
             a {
-                -webkit-transition: background .3s ease-in-out;
+                -webkit-transition: background .7s ease-in-out;
                 -moz-transition: background .3s ease-in-out;
                 transition: background .3s ease-in-out;
                 &:hover {
