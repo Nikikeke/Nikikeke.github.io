@@ -85,7 +85,7 @@ me-img: "/img/xueyao.jpeg"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
+color-browser: "#FFFDCC"
 apple-status-bar-style: "black"
 
 ################
