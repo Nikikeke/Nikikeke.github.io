@@ -137,13 +137,20 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    address: "Huazhong University"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "Jun 2017 - Today"
+    description: "@ The University of Chicago, machine learning enthusiast"
 
+  - image: "/img/timeline/spidertocat.png"
+    date: "September 2013 - Today"
+    description: "@Tsinghua Universty, research on Neuromorphic Computing"
+
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "Sep 2009 - Jun 2013"
+    description: "@Huazhong University of Science & Technology, Started coding"
+
+  - image: "/img/timeline/gitcatbaby.jpg"
+    date: "Jul 1991"
+    description: "Born in Danjiangkou Hubei, China"
 # First image of the Timeline
 
 timeline-img: "/img/timeline/default.png"
@@ -186,13 +193,13 @@ social:
 
 err-404-img: "/img/labtocat.png"
 
-##################
-# GPG on Keybase #
-##################
+# ##################
+# # GPG on Keybase #
+# ##################
 
-keybase-username: Xueyao Huang
-keybase-in-social: True
-keybase-in-footer: True
+# keybase-username: Xueyao Huang
+# keybase-in-social: True
+# keybase-in-footer: True
 
 ################################################################################
 
