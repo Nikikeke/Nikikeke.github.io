@@ -99,7 +99,7 @@ a {
         }
     }
     .navbar-brand {
-        font-weight: 5000;
+        font-weight: 200;
         &:focus {
             outline: none;
         }
@@ -364,7 +364,7 @@ body {
     -webkit-animation: blink 0.7s infinite;
     -moz-animation: blink 0.7s infinite;
     animation: blink 0.7s infinite;
-    font-size: 50px;
+    font-size: 16px;
     vertical-align: top;
     @media(min-width:768px) {
         font-size: 22px;
