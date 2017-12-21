@@ -99,13 +99,13 @@ a {
         }
     }
     .navbar-brand {
-        font-weight: 7000;
+        font-weight: 700;
         &:focus {
             outline: none;
         }
     }
     a {
-        color: $navbar-color;
+        color: #70C1B3;
         @if $header-text-shadow{
             text-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
         }
@@ -133,7 +133,7 @@ a {
                 a {
                     background-color: rgba(#247BA0, 0.3);
                     &:hover {
-                        color: $navbar-color;
+                        color: #70C1B3;
                     }
                 }
             }
