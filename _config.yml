@@ -41,7 +41,7 @@ favicon: "/img/author.png"
 
 black-favicon: "/img/labtocat1.png"
 
-background-img: "/img/background.jpg"
+background-img: "/img/background1.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -148,7 +148,7 @@ events:
     date: "Sep 2009 - Jun 2013"
     description: "@Huazhong University of Science & Technology, Started coding"
 
-  - image: "/img/timeline/gitcatbaby.jpg"
+  - image: "/img/timeline/gitcatbaby.png"
     date: "Jul 1991"
     description: "Born in Danjiangkou Hubei, China"
 # First image of the Timeline
