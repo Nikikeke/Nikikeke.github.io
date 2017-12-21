@@ -143,13 +143,13 @@ a {
         padding: 20px 0;
         border-bottom: none;
         letter-spacing: 1px;
-        background: #F7FFD5;
+        background: $navbar-lg-background;
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
         -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
         transition: background .5s ease-in-out,padding .5s ease-in-out;
         &.top-nav-collapse {
             padding: 0;
-            background: #F7FFD5;
+            background: $EDF2F4;
             border-bottom: 1px solid rgba(#247BA0, 0.3);
         }
     }
