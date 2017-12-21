@@ -136,7 +136,7 @@ blog-img: "/img/about.jpg"
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "Jun 2017 - Today"
-    description: "M.S. @ The University of Chicago, machine learning enthusiast, Actively Seeking Machine Learning Engineer/Data Science Intern in Summer 2018"
+    description: "M.S. @ The University of Chicago, machine learning enthusiast. Actively Seeking Machine Learning Engineer/Data Science Intern in Summer 2018"
 
   - image: "/img/coolgitcat.png"
     date: "Sep 2013 - Jul 2016"
