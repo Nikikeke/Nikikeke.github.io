@@ -128,7 +128,7 @@ vkontakte-share: True
 disqus-shortname: "panossakkos"
 
 syntax-highlight: True
-
+background-img: "/img/about.jpg"
 ############
 # Timeline #
 ############
