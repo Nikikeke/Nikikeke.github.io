@@ -51,7 +51,7 @@ dynamic-typing: True
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 7
+type-speed: 5
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
@@ -128,7 +128,7 @@ vkontakte-share: True
 disqus-shortname: "panossakkos"
 
 syntax-highlight: True
-background-img: "/img/about.jpg"
+blog-img: "/img/about.jpg"
 ############
 # Timeline #
 ############
