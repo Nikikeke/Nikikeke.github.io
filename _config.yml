@@ -136,7 +136,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/spidertocat.png"
     date: "Jun 2017 - Today"
-    description: "M.S. @ The University of Chicago, machine learning enthusiast, Actively Seeking Machine Learning/Data Science Intern in Summer 2018"
+    description: "zM.S. @ The University of Chicago, machine learning enthusiast, Actively Seeking Machine Learning/Data Science Intern in Summer 2018"
 
   - image: "/img/coolgitcat.png"
     date: "September 2013 - Today"
