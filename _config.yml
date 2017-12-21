@@ -31,9 +31,9 @@ force-https: True
 lang: "en"
 author: "Xueyao Huang"
 title: "{ Xueyao Huang }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/deeplearning.png"
+description: "Xueyao Huang, personal website."
+keywords: "Xueyao, Huang, data, scientist"
+favicon: "/img/author.png"
 
 ################
 # Header layout #
