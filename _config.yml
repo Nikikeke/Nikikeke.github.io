@@ -56,8 +56,10 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Xueyao Huang, future data scientist, on the move."
-  - text: "桃李春风一杯酒， 江湖夜雨十年灯"
-  - text: "You got a dream... You gotta protect it."
+  - text: "欲买桂花同载酒，终不似，少年游"
+  - text: "You got a dream, you gotta protect it."
+  - text: "一篇诗，一斗酒，一曲长歌，一剑天涯"
+  - text: "自律让人自由"
 
 me-img: "/img/jetpacktocat.png"
 me-img: "/img/xueyao.jpeg"
