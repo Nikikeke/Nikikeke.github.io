@@ -242,6 +242,8 @@ a {
     /* Added in { Personal } for responsive images in posts and section contents */
     img {
         display: block;
+        max-width: 100%;
+        height: auto;
         margin: 0 auto;
         border: 1px solid #247BA0;
     }
