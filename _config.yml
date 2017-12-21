@@ -166,16 +166,17 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
+  - title: "email"
     url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/xueyao-chris-huang-8197aa7a/"
+  - title: "facebook"
+    url: "https://www.facebook.com/xueyao.huang.71"
+  - title: "twitter"
+    url: "https://twitter.com/OFFERharvester?lang=en"
+  
 
 ############
 # 404 page #
