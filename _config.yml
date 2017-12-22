@@ -11,7 +11,7 @@ url: "https://xueyaohuang.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: /xueyaohuang.github.io
 
 # Google tracking id
 
