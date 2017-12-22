@@ -32,6 +32,6 @@
       "type": "image/png"
     }
   ],
-  "start_url": "https://xueyaohuang.github.io/xueyaohuang.github.io",
+  "start_url": "http://localhost:4000/xueyaohuang.github.io",
   "display": "standalone"
 }
