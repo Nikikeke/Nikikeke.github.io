@@ -12,7 +12,7 @@ url: "https://xueyaohuang.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /xueyaohuang.github.io
+baseurl: /personal-jekyll-theme
 
 # Google tracking id
 
@@ -128,7 +128,7 @@ vkontakte-share: True
 disqus-shortname: "panossakkos"
 
 syntax-highlight: True
-blog-img: "/img/about.jpg"
+
 ############
 # Timeline #
 ############
