@@ -10,7 +10,13 @@
 				<title>Facial expression recognition project</title>
 				
 				
-					<description>&lt;p&gt;Any comments to the &lt;a href=&quot;https://github.com/xueyaohuang/FACIAL-EXPRESSION-RECOGNITION&quot;&gt;repo&lt;/a&gt; are more than welcome!&lt;/p&gt;
+					<description>&lt;p&gt;normalize the data
+image have poxel intensities 0…255 &lt;br /&gt;
+we want to normalize these to be 0 …1&lt;br /&gt;
+reason: sigmoid / tanh are most active in the -1 - 1 range.&lt;br /&gt;
+the steepest slop is aroung -1 to 1.&lt;br /&gt;
+the slop is flat beyound this region&lt;/p&gt;
+
 </description>
 				
 				<pubDate>Mon, 27 Jun 2016 00:00:00 -0500</pubDate>
