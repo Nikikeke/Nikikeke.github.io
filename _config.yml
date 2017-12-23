@@ -213,6 +213,7 @@ pages_list:
   About: 'timeline'
   Blog: 'latest-post'
   Contact: 'contact'
+  Resume: 'resume'
 
 # Exclusion list from the generated _site
 
